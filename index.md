@@ -3,76 +3,58 @@ layout: default
 title: Privacy Policy — Flippin Heads Up
 ---
 
-# Privacy Policy for Flippin Heads Up
+# Privacy Policy
 
-**Last updated:** March 27, 2026
+**Flippin Heads Up — Last updated March 2026**
+
+*Short version: Flippin Heads Up does not collect, store, or sell your personal data. The only external service is Google AdMob for advertising, which collects an advertising identifier on your device. You can remove ads permanently for $2.99.*
 
 ## Overview
 
-Flippin Heads Up is a coin toss game app. We are committed to protecting your privacy. This policy explains what data the app collects, how it is used, and your choices.
+Flippin Heads Up is developed by Three Eyed Emu (Richard), Perth, Western Australia. This policy explains what data the app handles and what it never does.
 
-## Data We Collect
+## Data we do not collect
 
-Flippin Heads Up does not directly collect, store, or transmit any personal data. Specifically, the app:
-- Does not require user accounts or registration
-- Does not collect names, email addresses, or other personal information
-- Does not track your location
-- Does not use cookies
+The app does not collect your name, email address, phone number, location, contacts, photos, audio, health data, or any personally identifying information. No account is required. Nothing you do in the app is stored externally by us.
 
-## Advertising
+## Advertising (Google AdMob)
 
-The free version of the app displays ads served by **Google AdMob**. AdMob may collect and use data to provide personalised advertising, including:
-- Device identifiers (advertising ID)
-- IP address
-- General location (derived from IP)
-- App usage data and interaction with ads
+The free version of Flippin Heads Up displays banner and interstitial advertisements served by Google AdMob. AdMob may collect your device's advertising identifier (a resettable ID used to serve relevant ads), IP address, and general usage data. This data is collected by Google, not by Three Eyed Emu.
 
-You can opt out of personalised ads through your device settings:
-- **Android:** Settings > Google > Ads > Opt out of Ads Personalisation
-- **iOS:** Settings > Privacy & Security > Tracking
+You can opt out of personalised advertising at any time via **Android Settings > Privacy > Ads > Opt out of Ads Personalisation**, or by resetting your advertising ID.
 
-For more information on how Google uses data from apps that use its services, visit: [Google Partner Sites Policy](https://policies.google.com/technologies/partner-sites)
+Google's privacy policy: [policies.google.com/privacy](https://policies.google.com/privacy)
 
-### Ad-Free Option
+## Remove Ads ($2.99)
 
-You may purchase a one-time in-app upgrade ($2.99 USD) to permanently remove all ads. Once purchased, no advertising data is collected.
+You can purchase the Remove Ads option as a one-time, non-consumable in-app purchase for $2.99. This permanently removes all advertising from the app. Payment is processed entirely by Google Play Billing — Three Eyed Emu does not handle or store any payment or card details.
 
-## In-App Purchases
+## Offline functionality
 
-The app offers a single, one-time in-app purchase to remove ads. Purchases are processed entirely by the Google Play Store or Apple App Store. We do not receive or store any payment information (credit card numbers, billing addresses, etc.). Purchase records are managed by the respective app store.
+Core features of the app — coin tossing and Two-Up gameplay — work fully offline. An internet connection is only used for serving advertisements. If you purchase Remove Ads, the app functions entirely without any network calls.
 
-## Internet Access
+## Local storage
 
-The app requires internet access to:
-- Download font files (via Google Fonts) for display purposes
-- Serve advertisements (free version only)
-- Process in-app purchases
+The app stores a small amount of data on your device only: your preferences (such as selected coin, sound settings, and whether you have purchased Remove Ads). This data never leaves your device and is deleted when you uninstall the app.
 
-No personal data beyond what is described in the Advertising section is transmitted.
+## Two-Up and gambling
 
-## Data Storage
+Flippin Heads Up includes a simulation of Two-Up, a traditional Australian game. No real money is involved at any point. The app does not facilitate wagering of any kind. Two-Up gambling with real money is regulated in Australia and illegal in most states except on designated commemorative occasions.
 
-All game data (settings, preferences) is stored locally on your device and is never transmitted to any server.
+## Children
 
-## Third-Party Services
+Flippin Heads Up is not directed at children under 13. The Two-Up simulation is intended for adults. We do not knowingly collect personal information from children. AdMob is configured for family-safe ad content.
 
-The app uses the following third-party services, each with their own privacy policies:
-- **Google AdMob** (advertising): [Google Privacy Policy](https://policies.google.com/privacy)
-- **Google Fonts** (font loading): [Google Privacy Policy](https://policies.google.com/privacy)
-- **Google Play Store / Apple App Store** (in-app purchases): see respective store privacy policies
+## Changes to this policy
 
-## Children's Privacy
-
-The app does not knowingly collect any personal information from children. The app contains no user-generated content or social features. Ads served by AdMob comply with Google's policies for family-safe content.
-
-## Changes to This Policy
-
-We may update this privacy policy from time to time. Any changes will be reflected in the "Last updated" date above.
+If our data practices change, this policy will be updated. The current version is always accessible at this URL and from within the app.
 
 ## Contact
 
-If you have any questions about this privacy policy, please contact us through the app's store listing page.
+Questions about this privacy policy: [mogster@threeeyedemu.com.au](mailto:mogster@threeeyedemu.com.au)
+
+Three Eyed Emu, Perth, Western Australia
 
 ---
 
-*Flippin Heads Up — Three Eyed Emu*
+*© 2026 Three Eyed Emu — mogster@threeeyedemu.com.au*

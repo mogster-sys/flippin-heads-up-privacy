@@ -1,21 +1,21 @@
 ---
 layout: default
-title: Privacy Policy - Flippin Heads Up
+title: Privacy Policy - Flippin' Heads Up
 ---
 
 # Privacy Policy
 
-**Flippin Heads Up  |  Three Eyed Emu  |  Last updated: March 30, 2026**
+**Flippin' Heads Up  |  Three Eyed Emu  |  Last updated: March 30, 2026**
 
 This app is designed to collect as little data as possible. We do not sell your data. We do not build profiles. The information below explains what is collected, by whom, and why.
 
 ## 1. Who we are
 
-Flippin Heads Up is developed and published by Three Eyed Emu, an independent app studio based in Perth, Western Australia. You can reach us at mogster@threeeyedemu.com.au.
+Flippin' Heads Up is developed and published by Three Eyed Emu, an independent app studio based in Perth, Western Australia. You can reach us at mogster@threeeyedemu.com.au.
 
 ## 2. What this app does
 
-Flippin Heads Up is a coin toss simulator featuring exotic world coins and Two-Up, a traditional Australian coin game associated with ANZAC Day commemorations. The Two-Up feature simulates the game for entertainment purposes only. No real money is involved, and no gambling functionality is provided.
+Flippin' Heads Up is a coin toss simulator featuring exotic world coins and Two-Up, a traditional Australian coin game associated with ANZAC Day commemorations. The Two-Up feature simulates the game for entertainment purposes only. No real money is involved, and no gambling functionality is provided.
 
 ## 3. Data we collect directly
 
@@ -25,7 +25,7 @@ Your preferences (such as selected coin or remove-ads status) are stored locally
 
 ## 4. Advertising (Google AdMob)
 
-The free version of Flippin Heads Up displays advertisements served by Google AdMob. AdMob may collect and use data to serve relevant ads. This may include:
+The free version of Flippin' Heads Up displays advertisements served by Google AdMob. AdMob may collect and use data to serve relevant ads. This may include:
 
 - Device identifiers (advertising ID)
 - IP address and approximate location
@@ -38,7 +38,7 @@ You can review Google's privacy practices at [policies.google.com/privacy](https
 
 ## 5. In-app purchases
 
-Flippin Heads Up offers a one-time purchase to remove all advertisements. This transaction is processed entirely by Apple (App Store) or Google (Google Play). We do not receive or store your payment details. Purchase records are managed by the respective platform in accordance with their own privacy policies.
+Flippin' Heads Up offers a one-time purchase to remove all advertisements. This transaction is processed entirely by Apple (App Store) or Google (Google Play). We do not receive or store your payment details. Purchase records are managed by the respective platform in accordance with their own privacy policies.
 
 ## 6. Two-Up and simulated gambling
 
@@ -48,7 +48,7 @@ If you or someone you know is experiencing difficulties related to gambling, fre
 
 ## 7. Children's privacy
 
-Flippin Heads Up is not directed at children under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided personal information through this app, please contact us and we will take steps to remove it.
+Flippin' Heads Up is not directed at children under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided personal information through this app, please contact us and we will take steps to remove it.
 
 ## 8. Third-party services
 
